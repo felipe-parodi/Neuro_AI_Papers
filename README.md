@@ -1,4 +1,6 @@
 # Neuro-AI papers 🧠💻
+![status](https://img.shields.io/badge/status-inactive-red)
+
 This is a repository for research papers at the intersection between computational neuroscience and machine 
 learning, a field also known as neuroscience-inspired AI or simply neuro-AI. The papers are organised as follows:
 
